@@ -1,0 +1,32 @@
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/Imgui/DMZHub.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/Imgui/DMZHub_Config.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/Imgui/Interface_AntAdm.lua'))()
+
+--== A
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/A/A_Categoria_Config.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/A/A_Categoria_Jogador.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/A/A_Categoria_Protecao.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/A/A_Categoria_Visual.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/A/A_Categoria_Combate.lua'))()
+
+
+-- ===  B 
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/B/B_Categoria_Config.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/B/B_Categoria_demontycoon.lua'))()
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/B/B_Categoria_jogoViado.lua'))()
+
+
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/B/B_Categoria_MiniCity.lua'))()
+
+--=== D
+loadstring(game:HttpGet('https://dmzhub.onrender.com/Hub/D/D_Categoria_AC.lua'))()
